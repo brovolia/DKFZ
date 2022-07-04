@@ -1,6 +1,10 @@
 library(shiny)
 
-load("./shiny_env.RData")
+base_data <- readRDS("./objects_shiny/base_data.RDS")
+go_to_plot_BP2 <- readRDS("./go_to_plot_BP2.RDS")
+label_data <- readRDS("./objects_shiny/label_data.RDS")
+overlapping_genes <- readRDS("./objects_shiny/overlapping_genes.RDS")
+to_add <- readRDS("./objects_shiny/to_add.RDS")
 
 ui <- fluidPage(
     titlePanel("AHR IL4I1"),
