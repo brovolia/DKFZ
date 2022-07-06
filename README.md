@@ -5,6 +5,6 @@ This directory contains the scripts for Shiny app related with the article "IL4I
 
 ## Before started 
 
-Please, make sure, that you have set the required environment with setup_shiny.sh script. 
+Please, make sure, that you have set the required environment with setup_shiny.sh script. Via this script you will download the necessary R environment from https://disk.yandex.com/d/q12WxWEjkOaO0A
 
 
