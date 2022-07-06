@@ -5,6 +5,6 @@ This directory contains the script for Shiny app related with the article "IL4I1
 
 ## Before started 
 
-Please, make sure, that you have set the required environment from https://disk.yandex.com/d/q12WxWEjkOaO0A. You can make it manualy or with seed script setup_shiny.sh, whic also will install all neccesary packages and libraries
+Please, make sure, that you have set the required environment from https://disk.yandex.com/d/q12WxWEjkOaO0A. You can make it manualy or with seed script setup.sh, which also will install all neccesary packages and libraries
 
 
