@@ -1,7 +1,7 @@
 #Install the necessary packages
-BiocManager::install("shiny")
+install.packages("shiny")
 BiocManager::install("WGCNA")
-BiocManager::install("ggplot2")
+install.packages("ggplot2")
 
 #load the libraries
 library(shiny)
